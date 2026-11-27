@@ -1,0 +1,11 @@
+# Verification record — Weirdest Job Title: Blind Judge Showdown
+- slug: u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922
+- prize: $5 (1st $1.54 … 10th $0.06) — deadline: 2026-11-27T07:25:00Z (14:25 WIB)
+- API-verified 27 Nov 2026 ~11:13 WIB: publishedAt 2026-11-24T07:26:27Z (opensAt sudah lewat), submissionCount 4498
+- entryFeeUsd: null (FREE — entryFeesUsd "0.00", entryFeePayers 0)
+- kit bundle_sha256: 16169eb6b53eff61a020322c611ee1f491efbe3f995ceae810a18ed23b1c84c8
+- account: @rapid-pika-70 ONLY; wallet 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr
+- entry: "Professional Mourner for Strangers' Goldfish Funerals" — 53 chars (54 bytes with trailing newline), inside the 1–60 gate
+- gate: /output/entry.txt UTF-8, 1–60 chars, not only whitespace
+- judge: blind pairwise, GLM-5.3-flash; criteria in order: weird title > stranger than ordinary work > funny on first read > sounds like a real job, specific enough to picture > reads instantly
+- field: 4,498 submissions; final heat = top 500 dev board, Swiss 3 rounds + playoff top 12, top 10 paid
