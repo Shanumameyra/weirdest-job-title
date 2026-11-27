@@ -9,3 +9,7 @@
 - gate: /output/entry.txt UTF-8, 1–60 chars, not only whitespace
 - judge: blind pairwise, GLM-5.3-flash; criteria in order: weird title > stranger than ordinary work > funny on first read > sounds like a real job, specific enough to picture > reads instantly
 - field: 4,498 submissions; final heat = top 500 dev board, Swiss 3 rounds + playoff top 12, top 10 paid
+- repo: https://github.com/Shanumameyra/weirdest-job-title (public; About homepage = bounty URL, topic makefun)
+- commit SHA: c990346887a812b5f3426a35e23950df2089cfb5
+- verification: fresh-run exit 0, output byte-identical to expected (54 bytes incl. trailing newline); read-only repo sim exit 0; fresh GitHub clone run exit 0 + byte-identical to repo entry.txt; LICENSE carries SPDX-License-Identifier: MIT; README carries 3 linked make.fun badges; .makefun/owner.json wallet matches @rapid-pika-70
+- GitHub repo creation hit rate limit ("too many repositories, too quickly") — 3 failures at 5-min intervals, succeeded on 4th attempt (~11:45 WIB)
